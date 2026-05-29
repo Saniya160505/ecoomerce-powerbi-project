@@ -32,6 +32,6 @@ This project was developed using Python, SQL, and Power BI for data analysis and
 ![Revenue](Total_Revenue.png)
 
 ## Filter By Category
-![Filter](Filter_By_Category.png)
+![Filter](Filter_by_Category.png)
 
 
