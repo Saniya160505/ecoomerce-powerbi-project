@@ -16,22 +16,22 @@ This project was developed using Python, SQL, and Power BI for data analysis and
 - KPI Analysis
 - Interactive Charts
 
-# Dashboard Screenshots
-
 ## Monthly Sales Trend
-![Sales Trend](monthly_sales_trend.png)
+![Sales Trend](Monthly_Sales_Trend.png)
 
 ## States Wise Sales
-![States](states_wise_sales.png)
+![States](States_wise_Sales.png)
 
 ## Top Categories by Sales
-![Categories](top_categories_sales.png)
+![Categories](Top_Categories_by_Sales.png)
 
 ## Sub Products Analysis
-![Products](sub_products.png)
+![Products](Sub_Products.png)
 
 ## Total Revenue
-![Revenue](total_revenue.png)
+![Revenue](Total_Revenue.png)
 
 ## Filter By Category
-![Filter](filter_by_category.png)
+![Filter](Filter_By_Category.png)
+
+
